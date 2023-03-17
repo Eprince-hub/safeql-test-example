@@ -1,0 +1,15 @@
+{
+  "name": "safeql-test-example",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "repository": "https://github.com/Eprince-hub/safeql-test-example.git",
+  "author": "Victor Ejike Nwosu <ejikello123@yahoo.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "tsx index.ts"
+  },
+  "devDependencies": {
+    "tsx": "^3.12.5"
+  }
+}
